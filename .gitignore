@@ -1,0 +1,11 @@
+
+*.txt
+*.json
+*.xlsx
+*.csv
+*.yml
+*.pdf
+.venv/
+.vscode/
+#tmp/
+.env
